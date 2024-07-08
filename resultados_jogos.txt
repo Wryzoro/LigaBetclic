@@ -1,31 +1,374 @@
 Jornada 1:
-  Chaves 3 - 2 Estoril
-  Sporting 0 - 2 Vizela
-  Vitória SC 0 - 1 Braga
-  Casa Pia 0 - 0 Gil Vicente
-  Paços de Ferreira 4 - 5 Farense
-  Marítimo 5 - 0 Famalicão
-  Boavista 0 - 2 Arouca
-  Porto 4 - 3 Santa Clara
-  Rio Ave 4 - 3 Benfica
+  Boavista 1 - 4 AVS
+  Famalicao 0 - 0 Estrela Da Amadora
+  Rio Ave 0 - 3 Arouca
+  Casa Pia 3 - 0 Sporting
+  Estoril 1 - 0 Braga
+  Gil Vicente 4 - 1 Santa Clara
+  Vitoria SC 1 - 1 Moreirense
+  Nacional 5 - 4 Porto
+  Farense 4 - 5 Benfica
 
 Jornada 2:
-  Vizela 5 - 0 Chaves
-  Braga 3 - 1 Estoril
-  Gil Vicente 3 - 3 Sporting
-  Farense 4 - 1 Vitória SC
-  Famalicão 2 - 0 Casa Pia
-  Arouca 1 - 2 Paços de Ferreira
-  Santa Clara 2 - 1 Marítimo
-  Benfica 3 - 5 Boavista
-  Rio Ave 2 - 0 Porto
+  Estrela Da Amadora 5 - 3 Boavista
+  Arouca 4 - 3 AVS
+  Sporting 5 - 5 Famalicao
+  Braga 4 - 1 Rio Ave
+  Santa Clara 1 - 2 Casa Pia
+  Moreirense 2 - 3 Estoril
+  Porto 2 - 3 Gil Vicente
+  Benfica 4 - 4 Vitoria SC
+  Farense 0 - 4 Nacional
 
 Jornada 3:
-  Chaves 4 - 2 Braga
-  Vizela 0 - 4 Gil Vicente
-  Estoril 2 - 3 Farense
-  Sporting 3 - 4 Famalicão
-  Vitória SC 1 - 3 Arouca
-  Casa Pia 2 - 0 Santa Clara
-  Paços de Ferreira 4 - 5 Benfica
-  Marítimo 5 - 3 Rio Ave
+  Boavista 2 - 0 Arouca
+  Estrela Da Amadora 0 - 5 Sporting
+  AVS 3 - 1 Braga
+  Famalicao 4 - 0 Santa Clara
+  Rio Ave 2 - 1 Moreirense
+  Casa Pia 4 - 2 Porto
+  Estoril 0 - 2 Benfica
+  Gil Vicente 0 - 4 Farense
+  Vitoria SC 0 - 1 Nacional
+
+Jornada 4:
+  Sporting 2 - 0 Boavista
+  Braga 4 - 5 Arouca
+  Santa Clara 1 - 5 Estrela Da Amadora
+  Moreirense 1 - 3 AVS
+  Porto 1 - 1 Famalicao
+  Benfica 4 - 5 Rio Ave
+  Farense 0 - 1 Casa Pia
+  Nacional 5 - 0 Estoril
+  Vitoria SC 4 - 1 Gil Vicente
+
+Jornada 5:
+  Boavista 4 - 3 Braga
+  Sporting 0 - 3 Santa Clara
+  Arouca 0 - 2 Moreirense
+  Estrela Da Amadora 1 - 1 Porto
+  AVS 3 - 1 Benfica
+  Famalicao 1 - 3 Farense
+  Rio Ave 0 - 0 Nacional
+  Casa Pia 0 - 4 Vitoria SC
+  Estoril 5 - 5 Gil Vicente
+
+Jornada 6:
+  Santa Clara 4 - 5 Boavista
+  Moreirense 4 - 3 Braga
+  Porto 0 - 3 Sporting
+  Benfica 1 - 4 Arouca
+  Farense 3 - 2 Estrela Da Amadora
+  Nacional 2 - 2 AVS
+  Vitoria SC 5 - 0 Famalicao
+  Gil Vicente 3 - 0 Rio Ave
+  Estoril 0 - 1 Casa Pia
+
+Jornada 7:
+  Boavista 0 - 2 Moreirense
+  Santa Clara 2 - 5 Porto
+  Braga 1 - 5 Benfica
+  Sporting 0 - 3 Farense
+  Arouca 5 - 1 Nacional
+  Estrela Da Amadora 4 - 5 Vitoria SC
+  AVS 1 - 4 Gil Vicente
+  Famalicao 2 - 1 Estoril
+  Rio Ave 4 - 5 Casa Pia
+
+Jornada 8:
+  Porto 4 - 5 Boavista
+  Benfica 2 - 4 Moreirense
+  Farense 3 - 5 Santa Clara
+  Nacional 1 - 3 Braga
+  Vitoria SC 1 - 1 Sporting
+  Gil Vicente 2 - 0 Arouca
+  Estoril 3 - 3 Estrela Da Amadora
+  Casa Pia 4 - 4 AVS
+  Rio Ave 3 - 0 Famalicao
+
+Jornada 9:
+  Boavista 5 - 0 Benfica
+  Porto 3 - 0 Farense
+  Moreirense 3 - 2 Nacional
+  Santa Clara 1 - 4 Vitoria SC
+  Braga 4 - 4 Gil Vicente
+  Sporting 1 - 0 Estoril
+  Arouca 4 - 5 Casa Pia
+  Estrela Da Amadora 2 - 4 Rio Ave
+  AVS 2 - 5 Famalicao
+
+Jornada 10:
+  Farense 0 - 2 Boavista
+  Nacional 4 - 3 Benfica
+  Vitoria SC 5 - 0 Porto
+  Gil Vicente 2 - 5 Moreirense
+  Estoril 0 - 3 Santa Clara
+  Casa Pia 5 - 1 Braga
+  Rio Ave 0 - 1 Sporting
+  Famalicao 4 - 0 Arouca
+  AVS 3 - 2 Estrela Da Amadora
+
+Jornada 11:
+  Boavista 1 - 2 Nacional
+  Farense 5 - 0 Vitoria SC
+  Benfica 5 - 2 Gil Vicente
+  Porto 4 - 2 Estoril
+  Moreirense 3 - 3 Casa Pia
+  Santa Clara 4 - 3 Rio Ave
+  Braga 0 - 0 Famalicao
+  Sporting 3 - 1 AVS
+  Arouca 5 - 0 Estrela Da Amadora
+
+Jornada 12:
+  Vitoria SC 1 - 0 Boavista
+  Gil Vicente 1 - 1 Nacional
+  Estoril 1 - 5 Farense
+  Casa Pia 0 - 5 Benfica
+  Rio Ave 2 - 4 Porto
+  Famalicao 2 - 1 Moreirense
+  AVS 0 - 1 Santa Clara
+  Estrela Da Amadora 3 - 2 Braga
+  Arouca 3 - 1 Sporting
+
+Jornada 13:
+  Boavista 5 - 0 Gil Vicente
+  Vitoria SC 2 - 4 Estoril
+  Nacional 2 - 2 Casa Pia
+  Farense 0 - 1 Rio Ave
+  Benfica 4 - 4 Famalicao
+  Porto 4 - 3 AVS
+  Moreirense 1 - 0 Estrela Da Amadora
+  Santa Clara 5 - 1 Arouca
+  Braga 0 - 1 Sporting
+
+Jornada 14:
+  Estoril 3 - 0 Boavista
+  Casa Pia 4 - 3 Gil Vicente
+  Rio Ave 0 - 5 Vitoria SC
+  Famalicao 3 - 0 Nacional
+  AVS 4 - 5 Farense
+  Estrela Da Amadora 1 - 4 Benfica
+  Arouca 1 - 3 Porto
+  Sporting 0 - 1 Moreirense
+  Braga 0 - 2 Santa Clara
+
+Jornada 15:
+  Boavista 5 - 0 Casa Pia
+  Estoril 0 - 0 Rio Ave
+  Gil Vicente 0 - 0 Famalicao
+  Vitoria SC 4 - 1 AVS
+  Nacional 4 - 1 Estrela Da Amadora
+  Farense 1 - 4 Arouca
+  Benfica 1 - 4 Sporting
+  Porto 2 - 1 Braga
+  Moreirense 3 - 4 Santa Clara
+
+Jornada 16:
+  Rio Ave 2 - 2 Boavista
+  Famalicao 0 - 5 Casa Pia
+  AVS 1 - 0 Estoril
+  Estrela Da Amadora 2 - 3 Gil Vicente
+  Arouca 0 - 1 Vitoria SC
+  Sporting 2 - 0 Nacional
+  Braga 2 - 0 Farense
+  Santa Clara 3 - 0 Benfica
+  Moreirense 4 - 2 Porto
+
+Jornada 17:
+  Boavista 1 - 2 Famalicao
+  Rio Ave 5 - 3 AVS
+  Casa Pia 2 - 4 Estrela Da Amadora
+  Estoril 4 - 3 Arouca
+  Gil Vicente 1 - 3 Sporting
+  Vitoria SC 0 - 1 Braga
+  Nacional 5 - 0 Santa Clara
+  Farense 4 - 0 Moreirense
+  Benfica 4 - 5 Porto
+
+Jornada 18:
+  AVS 3 - 2 Boavista
+  Estrela Da Amadora 1 - 2 Famalicao
+  Arouca 4 - 5 Rio Ave
+  Sporting 0 - 0 Casa Pia
+  Braga 0 - 1 Estoril
+  Santa Clara 4 - 5 Gil Vicente
+  Moreirense 1 - 5 Vitoria SC
+  Porto 5 - 1 Nacional
+  Benfica 2 - 3 Farense
+
+Jornada 19:
+  Boavista 3 - 3 Estrela Da Amadora
+  AVS 0 - 2 Arouca
+  Famalicao 3 - 1 Sporting
+  Rio Ave 1 - 5 Braga
+  Casa Pia 5 - 3 Santa Clara
+  Estoril 4 - 3 Moreirense
+  Gil Vicente 2 - 5 Porto
+  Vitoria SC 0 - 3 Benfica
+  Nacional 0 - 0 Farense
+
+Jornada 20:
+  Arouca 4 - 2 Boavista
+  Sporting 4 - 2 Estrela Da Amadora
+  Braga 3 - 1 AVS
+  Santa Clara 2 - 2 Famalicao
+  Moreirense 1 - 5 Rio Ave
+  Porto 5 - 4 Casa Pia
+  Benfica 1 - 3 Estoril
+  Farense 4 - 5 Gil Vicente
+  Nacional 3 - 1 Vitoria SC
+
+Jornada 21:
+  Boavista 5 - 4 Sporting
+  Arouca 0 - 4 Braga
+  Estrela Da Amadora 3 - 2 Santa Clara
+  AVS 4 - 4 Moreirense
+  Famalicao 1 - 5 Porto
+  Rio Ave 2 - 5 Benfica
+  Casa Pia 4 - 2 Farense
+  Estoril 4 - 0 Nacional
+  Gil Vicente 3 - 3 Vitoria SC
+
+Jornada 22:
+  Braga 0 - 3 Boavista
+  Santa Clara 1 - 1 Sporting
+  Moreirense 0 - 1 Arouca
+  Porto 1 - 0 Estrela Da Amadora
+  Benfica 5 - 5 AVS
+  Farense 1 - 4 Famalicao
+  Nacional 5 - 3 Rio Ave
+  Vitoria SC 3 - 4 Casa Pia
+  Gil Vicente 2 - 3 Estoril
+
+Jornada 23:
+  Boavista 4 - 4 Santa Clara
+  Braga 3 - 4 Moreirense
+  Sporting 5 - 1 Porto
+  Arouca 3 - 5 Benfica
+  Estrela Da Amadora 0 - 1 Farense
+  AVS 1 - 0 Nacional
+  Famalicao 3 - 2 Vitoria SC
+  Rio Ave 1 - 0 Gil Vicente
+  Casa Pia 1 - 2 Estoril
+
+Jornada 24:
+  Moreirense 2 - 5 Boavista
+  Porto 2 - 5 Santa Clara
+  Benfica 4 - 3 Braga
+  Farense 4 - 0 Sporting
+  Nacional 4 - 4 Arouca
+  Vitoria SC 5 - 2 Estrela Da Amadora
+  Gil Vicente 1 - 4 AVS
+  Estoril 2 - 0 Famalicao
+  Casa Pia 4 - 0 Rio Ave
+
+Jornada 25:
+  Boavista 0 - 5 Porto
+  Moreirense 2 - 1 Benfica
+  Santa Clara 1 - 3 Farense
+  Braga 5 - 4 Nacional
+  Sporting 0 - 4 Vitoria SC
+  Arouca 2 - 1 Gil Vicente
+  Estrela Da Amadora 0 - 0 Estoril
+  AVS 5 - 0 Casa Pia
+  Famalicao 4 - 2 Rio Ave
+
+Jornada 26:
+  Benfica 1 - 1 Boavista
+  Farense 0 - 0 Porto
+  Nacional 4 - 1 Moreirense
+  Vitoria SC 1 - 0 Santa Clara
+  Gil Vicente 3 - 1 Braga
+  Estoril 0 - 2 Sporting
+  Casa Pia 2 - 1 Arouca
+  Rio Ave 3 - 5 Estrela Da Amadora
+  Famalicao 2 - 4 AVS
+
+Jornada 27:
+  Boavista 2 - 2 Farense
+  Benfica 0 - 2 Nacional
+  Porto 0 - 1 Vitoria SC
+  Moreirense 1 - 5 Gil Vicente
+  Santa Clara 0 - 3 Estoril
+  Braga 0 - 3 Casa Pia
+  Sporting 4 - 5 Rio Ave
+  Arouca 2 - 1 Famalicao
+  Estrela Da Amadora 5 - 5 AVS
+
+Jornada 28:
+  Nacional 1 - 1 Boavista
+  Vitoria SC 2 - 0 Farense
+  Gil Vicente 5 - 2 Benfica
+  Estoril 0 - 3 Porto
+  Casa Pia 2 - 5 Moreirense
+  Rio Ave 0 - 5 Santa Clara
+  Famalicao 4 - 5 Braga
+  AVS 2 - 4 Sporting
+  Estrela Da Amadora 5 - 5 Arouca
+
+Jornada 29:
+  Boavista 0 - 5 Vitoria SC
+  Nacional 4 - 4 Gil Vicente
+  Farense 4 - 4 Estoril
+  Benfica 4 - 2 Casa Pia
+  Porto 0 - 2 Rio Ave
+  Moreirense 1 - 2 Famalicao
+  Santa Clara 3 - 0 AVS
+  Braga 0 - 0 Estrela Da Amadora
+  Sporting 0 - 0 Arouca
+
+Jornada 30:
+  Gil Vicente 1 - 0 Boavista
+  Estoril 0 - 5 Vitoria SC
+  Casa Pia 3 - 5 Nacional
+  Rio Ave 2 - 1 Farense
+  Famalicao 2 - 0 Benfica
+  AVS 1 - 1 Porto
+  Estrela Da Amadora 1 - 3 Moreirense
+  Arouca 1 - 0 Santa Clara
+  Sporting 1 - 0 Braga
+
+Jornada 31:
+  Boavista 4 - 3 Estoril
+  Gil Vicente 3 - 0 Casa Pia
+  Vitoria SC 5 - 4 Rio Ave
+  Nacional 1 - 4 Famalicao
+  Farense 0 - 1 AVS
+  Benfica 3 - 0 Estrela Da Amadora
+  Porto 0 - 2 Arouca
+  Moreirense 5 - 2 Sporting
+  Santa Clara 2 - 0 Braga
+
+Jornada 32:
+  Casa Pia 2 - 4 Boavista
+  Rio Ave 5 - 3 Estoril
+  Famalicao 3 - 5 Gil Vicente
+  AVS 4 - 3 Vitoria SC
+  Estrela Da Amadora 4 - 4 Nacional
+  Arouca 4 - 1 Farense
+  Sporting 3 - 1 Benfica
+  Braga 0 - 2 Porto
+  Santa Clara 1 - 5 Moreirense
+
+Jornada 33:
+  Boavista 3 - 1 Rio Ave
+  Casa Pia 4 - 5 Famalicao
+  Estoril 3 - 1 AVS
+  Gil Vicente 5 - 5 Estrela Da Amadora
+  Vitoria SC 3 - 1 Arouca
+  Nacional 0 - 4 Sporting
+  Farense 4 - 2 Braga
+  Benfica 3 - 0 Santa Clara
+  Porto 1 - 0 Moreirense
+
+Jornada 34:
+  Famalicao 0 - 5 Boavista
+  AVS 4 - 0 Rio Ave
+  Estrela Da Amadora 2 - 0 Casa Pia
+  Arouca 4 - 4 Estoril
+  Sporting 0 - 1 Gil Vicente
+  Braga 2 - 5 Vitoria SC
+  Santa Clara 4 - 5 Nacional
+  Moreirense 4 - 2 Farense
+  Porto 2 - 3 Benfica
+
