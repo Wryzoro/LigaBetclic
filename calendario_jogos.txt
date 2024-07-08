@@ -1,0 +1,29 @@
+Jornada 1:
+  Chaves vs Estoril
+  Sporting vs Vizela
+  Vitória SC vs Braga
+  Casa Pia vs Gil Vicente
+  Paços de Ferreira vs Farense
+  Marítimo vs Famalicão
+  Boavista vs Arouca
+  Porto vs Santa Clara
+  Rio Ave vs Benfica
+Jornada 2:
+  Vizela vs Chaves
+  Braga vs Estoril
+  Gil Vicente vs Sporting
+  Farense vs Vitória SC
+  Famalicão vs Casa Pia
+  Arouca vs Paços de Ferreira
+  Santa Clara vs Marítimo
+  Benfica vs Boavista
+  Rio Ave vs Porto
+Jornada 3:
+  Chaves vs Braga
+  Vizela vs Gil Vicente
+  Estoril vs Farense
+  Sporting vs Famalicão
+  Vitória SC vs Arouca
+  Casa Pia vs Santa Clara
+  Paços de Ferreira vs Benfica
+  Marítimo vs Rio Ave

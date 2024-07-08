@@ -1,0 +1,31 @@
+Jornada 1:
+  Chaves 3 - 2 Estoril
+  Sporting 0 - 2 Vizela
+  Vitória SC 0 - 1 Braga
+  Casa Pia 0 - 0 Gil Vicente
+  Paços de Ferreira 4 - 5 Farense
+  Marítimo 5 - 0 Famalicão
+  Boavista 0 - 2 Arouca
+  Porto 4 - 3 Santa Clara
+  Rio Ave 4 - 3 Benfica
+
+Jornada 2:
+  Vizela 5 - 0 Chaves
+  Braga 3 - 1 Estoril
+  Gil Vicente 3 - 3 Sporting
+  Farense 4 - 1 Vitória SC
+  Famalicão 2 - 0 Casa Pia
+  Arouca 1 - 2 Paços de Ferreira
+  Santa Clara 2 - 1 Marítimo
+  Benfica 3 - 5 Boavista
+  Rio Ave 2 - 0 Porto
+
+Jornada 3:
+  Chaves 4 - 2 Braga
+  Vizela 0 - 4 Gil Vicente
+  Estoril 2 - 3 Farense
+  Sporting 3 - 4 Famalicão
+  Vitória SC 1 - 3 Arouca
+  Casa Pia 2 - 0 Santa Clara
+  Paços de Ferreira 4 - 5 Benfica
+  Marítimo 5 - 3 Rio Ave
